@@ -136,7 +136,7 @@ class ConversationRepository {
             .order(by: "lastUpdated", descending: true) // Order by lastUpdated in descending order (most recent first)
             .addSnapshotListener { snapshot, error in
                 if let error = error {
-                    print("Error fetching conversations: \(error.localizedDescription)")
+                    print("Error fetching conversations table view: \(error.localizedDescription)")
                     completion([]) // Return an empty array on error
                     return
                 }
