@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91C45259-4AAD-4878-8FF0-631751E709CB"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "373669EE-C31B-478D-9FB8-412B35E61421"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocialConnectProject/Database/Repositories.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "795"
+            endingLineNumber = "795"
+            landmarkName = "saveUserDetailsWithImage(user:userImage:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "373669EE-C31B-478D-9FB8-412B35E61421 - fd656aaa759fb18"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "SocialConnectProject.Repositories.saveUserDetailsWithImage(user: SocialConnectProject.User, userImage: __C.UIImage, completion: (Swift.Bool, SocialConnectProject.User) -&gt; ()) -&gt; ()"
+                  moduleName = "SocialConnectProject.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user259543/Library/CloudStorage/OneDrive-Personal/XcodeProject/surajprojectfolder(RealFolder)withworking%20apps/SocialConnectProject/SocialConnectProject/Database/Repositories.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "795"
+                  endingLineNumber = "795">
+               </Location>
+               <Location
+                  uuid = "373669EE-C31B-478D-9FB8-412B35E61421 - 32f160552ad0f7a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SocialConnectProject.Repositories.saveUserDetailsWithImage(user: SocialConnectProject.User, userImage: __C.UIImage, completion: (Swift.Bool, SocialConnectProject.User) -&gt; ()) -&gt; ()"
+                  moduleName = "SocialConnectProject.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user259543/Library/CloudStorage/OneDrive-Personal/XcodeProject/surajprojectfolder(RealFolder)withworking%20apps/SocialConnectProject/SocialConnectProject/Database/Repositories.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "795"
+                  endingLineNumber = "795">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A34F9FEE-77D1-45B3-9E14-BFFB116B69A2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocialConnectProject/Database/Repositories.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "804"
+            endingLineNumber = "804"
+            landmarkName = "saveUserDetailsWithImage(user:userImage:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A34F9FEE-77D1-45B3-9E14-BFFB116B69A2 - a8966620f5c8eaf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SocialConnectProject.Repositories.saveUserDetailsWithImage(user: SocialConnectProject.User, userImage: __C.UIImage, completion: (Swift.Bool, SocialConnectProject.User) -&gt; ()) -&gt; ()"
+                  moduleName = "SocialConnectProject.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user259543/Library/CloudStorage/OneDrive-Personal/XcodeProject/surajprojectfolder(RealFolder)withworking%20apps/SocialConnectProject/SocialConnectProject/Database/Repositories.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "804"
+                  endingLineNumber = "804">
+               </Location>
+               <Location
+                  uuid = "A34F9FEE-77D1-45B3-9E14-BFFB116B69A2 - a8966620f5c8eaf7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;Foundation.URL&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (Swift.Optional&lt;FirebaseStorage.StorageMetadata&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in SocialConnectProject.Repositories.saveUserDetailsWithImage(user: SocialConnectProject.User, userImage: __C.UIImage, completion: (Swift.Bool, SocialConnectProject.User) -&gt; ()) -&gt; ()"
+                  moduleName = "SocialConnectProject.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/user259543/Library/CloudStorage/OneDrive-Personal/XcodeProject/surajprojectfolder(RealFolder)withworking%20apps/SocialConnectProject/SocialConnectProject/Database/Repositories.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "804"
+                  endingLineNumber = "804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C62DD40B-6934-41E0-90E9-DEB684D673E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "SocialConnectProject/Database/Repositories.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "811"
+            endingLineNumber = "811"
+            landmarkName = "saveUserDetailsWithImage(user:userImage:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
