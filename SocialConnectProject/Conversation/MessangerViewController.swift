@@ -156,7 +156,7 @@ class MessangerViewController: UIViewController, UITableViewDataSource, UITableV
             sendTime: Timestamp(date: Date()),
             senderId: currentUser.userAuthId,  // Assuming currentUser has a userAuthId
             status: "sent",  // Set appropriate status
-            type: "text"  // Assuming text message type, you can modify for media type
+            type: "Text"  // Assuming text message type, you can modify for media type
         )
         
         // Add the message to the conversation
